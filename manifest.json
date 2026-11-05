@@ -1,0 +1,10 @@
+{
+  "id": "jingzhe-publish",
+  "name": "Jingzhe Publish",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "把当前笔记一键发布到惊蛰博客（GitHub 仓库），自动上传并改写本地图片。",
+  "author": "white1213",
+  "authorUrl": "https://white1213.github.io/blog/",
+  "isDesktopOnly": true
+}
